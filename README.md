@@ -5,5 +5,5 @@ gcc server.c -o server && gcc client.c -o client
 
 usage : 
 
-./server <port number>
-./client <localhost ip > <port number>
+./server PORT_NUMBER
+./client  LOCALHOST_IP PORT_NUMBER
