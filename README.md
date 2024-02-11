@@ -1,4 +1,4 @@
-a small  internet relay chat server client in c  
+a basic  internet relay chat server client in c  
 
 compile :
 gcc server.c -o server && gcc client.c -o client 
